@@ -4,7 +4,7 @@ title: Transcriptome dynamics of TEs
 description: 
 contributors:
   - Sarah N Anderson
-image: /images/projects/te_expression.png
+image: /images/publications/Anderson2019TE_exp.png
 link: 
 ---
 
