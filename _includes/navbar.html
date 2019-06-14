@@ -2,9 +2,9 @@
     <div class="container">
     {% if page.categories.first != 'home' %}
         <a href="/">
-        <object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
+        <object class="logo navbar-brand" data="/images/smaller_logo.png" type="image/svg+xml"></object>
         </a>
-        <a class="navbar-brand" href="/">Springer Lab</a>
+        <a class="navbar-brand" href="/">Anderson Genomics Lab</a>
         {% endif %}
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -18,13 +18,6 @@
                 <li class="nav-item">
             {% endif %}
                     <a class="nav-link" href="/projects/">Projects</a>
-                </li>
-            {% if page.categories.first == 'news' %}
-                <li class="nav-item active">
-            {% else %}
-                <li class="nav-item">
-            {% endif %}
-                    <a class="nav-link" href="/news/">News</a>
                 </li>
             {% if page.categories.first == 'people' %}
                 <li class="nav-item active">
@@ -50,7 +43,6 @@
                         <a class="dropdown-item" href="/misc/about">About</a>
                         <a class="dropdown-item" href="/misc/photos">Photos</a>
                         <a class="dropdown-item" href="/misc/join">Positions</a>
-                        <a class="dropdown-item" href="/misc/protocols">Protocols</a>
                     <a class="dropdown-item" href="/misc/contact">Contact</a>
                     </div>
                 </li>
