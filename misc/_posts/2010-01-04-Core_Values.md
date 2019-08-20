@@ -6,7 +6,7 @@ title: Core_Values
 
 # Core values
 
-##### All lab members are expected to act in accordance with the core values of the lab
+##### All lab members are expected to act in accordance with the core values of the lab:
 
 * Mutual respect
 * Open communication
