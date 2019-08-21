@@ -3,7 +3,7 @@ layout: project
 title: Genome variation in TE insertions
 description:
 contributors:
-  - Sarah N Anderson
+  - 
 image: /images/projects/TE_structural_variation.png
 link: 
 ---
