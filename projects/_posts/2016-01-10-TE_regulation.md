@@ -3,7 +3,7 @@ layout: project
 title: TE expression dynamics and their effects on genes
 description: 
 contributors:
-  - Sarah N Anderson
+  - 
 image: /images/publications/Anderson2019TE_exp.png
 link: 
 ---
