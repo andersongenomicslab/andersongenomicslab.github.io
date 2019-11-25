@@ -8,7 +8,7 @@ orcid: 0000-0002-1671-2286
 calendar: 
 github: 
 linkedin:
-email: sna@umn.edu
+email: sna@iastate.edu
 scholar: https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=mlAcnHkAAAAJ&hl=en&user=f7FJ4UoAAAAJ
 image: /images/people/sarah-anderson.jpg
 cv: /pdfs/people/sarah-anderson-cv.pdf
