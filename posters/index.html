@@ -1,0 +1,35 @@
+---
+layout: default
+title: Anderson Genomics Lab / Posters
+categories: 
+ - posters
+---
+<div class="bigspacer"></div>
+
+<div class='col-md-12 smallhead'>Poster Presentations.</div>
+
+<div class="bigspacer"></div>
+
+<div class="list-group">
+{% for paper in site.categories.publications %}
+
+  <a href="{{ paper.url }}" class="list-group-item list-group-item-action">
+      <div class="row">
+        <div class="col-sm col-sm-auto pr-0">
+                {% if paper.image %}
+                    <img width=100 src="{{ poster.image }}">
+                {% else %}
+                    <img width=100 src="/images/null.png">
+                {% endif %}
+        </div>
+        <div class="col-sm px-3">
+            <div class="pull-right smallhead text-dark">{{ poster.title }}</div>
+            <div class="note my-2 text-muted">{{ poster.ref }}</div>
+        </div>
+      </div>
+  </a>
+
+{% endfor %}
+</div>
+
+<div class="bigspacer"></div>
