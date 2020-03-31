@@ -7,10 +7,10 @@
 <div class="bigspacer"></div>
 
 <div class="card-deck">
-	{% for paper in site.categories.publications limit:4 %}
+	{% for poster in site.categories.poster limit:4 %}
     <div class="card">
         <a class="text-dark" href="{{ poster.url }}">
-	{% if paper.image %}
+	{% if poster.image %}
         <img class="card-img-top" src="{{ poster.image }}" alt="{{ poster.ref }}">
     {% else %}
         <img class="card-img-top" src="/images/null.png" alt="{{ poster.ref }}">
