@@ -10,7 +10,7 @@ github:
 linkedin: 
 email: whclore@iastate.edu
 scholar: 
-image: /images/null.png
+image: /images/smaller_logo.png
 cv: 
 ---
 
