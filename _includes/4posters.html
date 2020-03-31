@@ -7,7 +7,7 @@
 <div class="bigspacer"></div>
 
 <div class="card-deck">
-	{% for posters in site.categories.posters limit:4 %}
+	{% for posters in site.categories.poster limit:4 %}
     <div class="card">
         <a class="text-dark" href="{{ poster.url }}">
 	{% if poster.image %}
