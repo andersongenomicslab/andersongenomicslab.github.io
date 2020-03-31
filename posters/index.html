@@ -11,12 +11,12 @@ categories:
 <div class="bigspacer"></div>
 
 <div class="list-group">
-{% for paper in site.categories.publications %}
+{% for poster in site.categories.poster %}
 
-  <a href="{{ paper.url }}" class="list-group-item list-group-item-action">
+  <a href="{{ poster.url }}" class="list-group-item list-group-item-action">
       <div class="row">
         <div class="col-sm col-sm-auto pr-0">
-                {% if paper.image %}
+                {% if poster.image %}
                     <img width=100 src="{{ poster.image }}">
                 {% else %}
                     <img width=100 src="/images/null.png">
