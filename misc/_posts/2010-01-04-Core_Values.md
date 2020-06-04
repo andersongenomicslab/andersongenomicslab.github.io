@@ -12,8 +12,12 @@ title: Core_Values
 * Open communication
 * Research integrity
 * Collaboration
+* Prioritization of health and safety
 
 These core values are in place to support a lab environment where we produce innovative and reproducible science while facilitating the career advancement of all lab members. 
+
+
+# Racism of any kind directed at any person will not be tolerated
 
 ___
 
