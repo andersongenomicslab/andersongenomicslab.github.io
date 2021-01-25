@@ -1,6 +1,6 @@
 ---
 layout: member
-title: William Clore
+title: William Clore IV
 position: Undergraduate Student
 handle: williamclore
 twitter: 
