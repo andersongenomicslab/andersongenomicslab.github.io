@@ -7,7 +7,7 @@ twitter:
 orcid: 
 calendar: 
 github: 
-linkedin: 
+linkedin: karli-fritz-7181a9170
 email: klfritz@iastate.edu
 scholar: 
 image: /images/people/karli.png
