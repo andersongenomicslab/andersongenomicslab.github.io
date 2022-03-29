@@ -9,7 +9,7 @@ calendar:
 github: 
 linkedin:
 email: spklein@iastate.edu
-scholar: https://scholar.google.com/citations?user=zorTSq0AAAAJ&hl=en&oi=ao
+scholar: https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=zorTSq0AAAAJ&hl=en&oi=ao
 image: /images/people/stephanie-klein.jpg
 cv: /pdfs/people/stephanie-klein-cv.pdf
 ---
