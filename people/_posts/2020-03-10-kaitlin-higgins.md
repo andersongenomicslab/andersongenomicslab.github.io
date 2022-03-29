@@ -9,7 +9,7 @@ calendar:
 github: kmhiggins
 linkedin: kaitlin-m-higgins
 email: kaitlinj@iastate.edu
-scholar: https://scholar.google.com/citations?user=TJBtaCQAAAAJ&hl=en
+scholar: https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=TJBtaCQAAAAJ&hl=en
 image: /images/people/kaitlin-higgins.jpg
 cv: 
 ---
