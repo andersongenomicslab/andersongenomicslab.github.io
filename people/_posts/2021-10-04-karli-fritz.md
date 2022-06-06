@@ -12,6 +12,7 @@ email: klfritz@iastate.edu
 scholar: 
 image: /images/people/Karli.jpg
 cv: 
+alumni: true
 ---
 
 Hi!
